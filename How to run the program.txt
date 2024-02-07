@@ -1,0 +1,17 @@
+1. Extract the file on your drive.
+
+2. Open the folder on visual studio
+
+3. Right click on the src then click open integrated terminal
+
+4. Type npm install
+
+5. After the installation type npm run dev
+
+6. click on the localhost that is given.
+
+7. To add a contact simply fillout the form and click add Contact
+
+8. To modify contact information, select the edit icon adjacent to the contact's name and update the required details within the form.
+
+9.To remove a contact, select the delete icon beside the contact's name, and confirm the action when prompted.
